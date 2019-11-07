@@ -24,7 +24,7 @@ title={Multivariate time series dynamic time warping using euclidean distance},
 author={Ali Javed},
 year={2019},
 month={November},
-note = {\url{}}
+note = {\url{https://github.com/ali-javed/dynamic-time-warping}}
 %}
 
 
