@@ -1,3 +1,13 @@
+%If you use this code in your work please cite as
+%{
+@misc{DTW_D,
+title={Multivariate time series dynamic time warping using euclidean distance},
+author={Ali Javed},
+year={2019},
+month={November},
+note = {\url{https://github.com/ali-javed/dynamic-time-warping}}
+%}
+
 
 %sequence 1 variable 1 and 2
 %s1_1 = [1,2,3,4,4,4,4,4,5,6,6];
