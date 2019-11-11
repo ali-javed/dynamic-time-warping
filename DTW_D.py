@@ -1,15 +1,15 @@
 import numpy as np
 
-'''
-If you use the code in your work please cite as
-@misc{DTW_D,
-title={Multivariate time series dynamic time warping using euclidean distance},
-author={Ali Javed},
-year={2019},
-month={November},
-note = {\url{https://github.com/ali-javed/dynamic-time-warping}}
-%}
-'''
+
+#If you use the code in your work please cite as
+#@misc{DTW_D,
+#title={Multivariate time series dynamic time warping using euclidean distance},
+#author={Ali Javed},
+#year={2019},
+#month={November},
+#note = {\url{https://github.com/ali-javed/dynamic-time-warping}}
+#}
+
 
 
 def sq_euc(s1, s2):
