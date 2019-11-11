@@ -1,4 +1,15 @@
 function dist=dtw_d(s1,s2,w)
+
+%If you use this code in your work please cite as
+%{
+@misc{DTW_D,
+title={Multivariate time series dynamic time warping using euclidean distance},
+author={Ali Javed},
+year={2019},
+month={November},
+note = {\url{https://github.com/ali-javed/dynamic-time-warping}}
+%}
+    
 %%author: Ali Javed 
 %email: ajaved@uvm.edu
 %Version history:
@@ -18,16 +29,7 @@ function dist=dtw_d(s1,s2,w)
 % dist: resulting distance
     %if 0 then calculate euclidean distance
     
-%If you use this code in your work please cite as
-%{
-@misc{DTW_D,
-title={Multivariate time series dynamic time warping using euclidean distance},
-author={Ali Javed},
-year={2019},
-month={November},
-note = {\url{https://github.com/ali-javed/dynamic-time-warping}}
-%}
-    
+
     
 %%    
     
