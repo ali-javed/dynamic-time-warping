@@ -1,3 +1,13 @@
+#If you use the code in your work please cite as
+#@misc{DTW_D,
+#title={Multivariate time series dynamic time warping using euclidean distance},
+#author={Ali Javed},
+#year={2019},
+#month={November},
+#note = {\url{https://github.com/ali-javed/dynamic-time-warping}}
+#}
+
+
 from DTW_D import dtw_d
 import numpy as np
 
