@@ -19,12 +19,7 @@
     
 %If you use this code in your work please cite as
 %{
-@misc{DTW_D,
-title={Multivariate time series dynamic time warping using euclidean distance},
-author={Ali Javed},
-year={2019},
-month={November},
-note = {\url{https://github.com/ali-javed/dynamic-time-warping}}
+%Ali Javed, Byung Suk Lee, and Donna M. Rizzo. “A benchmark study on time series clustering”. In: Machine Learning with Applications 1 (2020), p. 100001. issn: 2666-8270. doi: https://doi.org/10.1016/j.mlwa.2020.100001. url: http://www.sciencedirect.com/science/article/pii/S2666827020300013
 %}
 
 
